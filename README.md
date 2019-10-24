@@ -13,7 +13,7 @@ Christopher Manning ： CS224n: Natural Language Processing with Deep Learning<b
 - [ ] deadline： 11月24日
 
 #### Assignment4
-- [ ]deadline： 12月8日
+- [ ] deadline： 12月8日
 
 #### Assignment5
 - [ ] deadline： 12月22日
