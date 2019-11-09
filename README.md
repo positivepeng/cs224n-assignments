@@ -7,7 +7,8 @@ Christopher Manning ： CS224n: Natural Language Processing with Deep Learning<b
  - [x] deadline：10月27日<br> 
 主要内容：共现矩阵，奇异值分解后可视化分析，利用词向量分析同义词反义词类比关系和偏见
 #### Assignment2
- - [ ] deadline：11月10日  
+ - [x] deadline：11月10日<br>
+ 主要内容：Word2Vec两种模型：skip-gram和CBOW的原理，实现skip-gram
 
 #### Assignment3
 - [ ] deadline： 11月24日
