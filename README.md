@@ -11,7 +11,8 @@ Christopher Manning ： CS224n: Natural Language Processing with Deep Learning<b
  主要内容：Word2Vec两种模型：skip-gram和CBOW的原理，实现skip-gram
 
 #### Assignment3
-- [ ] deadline： 11月24日
+- [x] deadline： 11月24日<br>
+主要内容：梯度更新的方法及特点，使用神经网络做预测器根据当前的状态预测依赖关系解析器的下一步操作（shift, left-arc,right-arc）。
 
 #### Assignment4
 - [ ] deadline： 12月8日
